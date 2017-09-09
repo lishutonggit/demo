@@ -4,5 +4,5 @@ int main (void) {
 }
 
 void delay (void) {
-
+    int i = 0;
 }
